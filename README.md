@@ -1,12 +1,21 @@
-# template-login-hotspot-mikrotik-02
+### template-login-hotspot-mikrotik-02
+Template login hotspot Mikrotik Freemium [Erik Sanjaya](https://github.com/eriiksanjaya)
 
-untuk melakukan configurasi template edit file config.js
-file tersebut di folder assets/js/config.js
+>**Template ini Freemium, For free required attribute**
 
-# screenshoot
+#### Konfigurasi
+untuk melakukan configurasi template, edit file config.js
+file tersebut berada di folder assets/js/config.js
+
+#### Screenshoot
 <img width="200" src="https://eriksanjaya.com/public/images/hotspot/02/hs001.jpeg" />
+<img width="200" src="https://eriksanjaya.com/public/images/hotspot/02/hs002.jpeg" />
+<img width="200" src="https://eriksanjaya.com/public/images/hotspot/02/hs003.jpeg" />
+<img width="200" src="https://eriksanjaya.com/public/images/hotspot/02/hs004.jpeg" />
 
-let configData = {
+
+#### assets/js/config.js
+```let configData = {
   
   creator: { /* haram, hapus / edit data creator :D */
     name: "Erik Sanjaya",
@@ -110,5 +119,4 @@ let configData = {
       }
     ],
   }
-
-}
+}```
