@@ -1,6 +1,12 @@
 ### template-login-hotspot-mikrotik-02
 Template login hotspot Mikrotik Freemium [Erik Sanjaya](https://github.com/eriiksanjaya)
 
+#### Lihat Demo
+[Youtube](https://www.youtube.com/watch?v=j2ffHxSmaJ4)
+
+#### Download
+[Download Template](https://github.com/eriiksanjaya/template-login-hotspot-mikrotik-02/archive/refs/heads/main.zip)
+
 >**Template ini Freemium, untuk yang gratis, atribut wajib ada**
 
 #### Konfigurasi
@@ -120,6 +126,3 @@ file tersebut berada di folder assets/js/config.js
 <img width="200" src="https://eriksanjaya.com/public/images/hotspot/02/hs002.jpeg" />
 <img width="200" src="https://eriksanjaya.com/public/images/hotspot/02/hs003.jpeg" />
 <img width="200" src="https://eriksanjaya.com/public/images/hotspot/02/hs004.jpeg" />
-
-#### Download
-[Download Template](https://github.com/eriiksanjaya/template-login-hotspot-mikrotik-02/archive/refs/heads/main.zip)
