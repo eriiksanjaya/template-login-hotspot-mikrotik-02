@@ -121,4 +121,4 @@ file tersebut berada di folder assets/js/config.js
 <img width="200" src="https://eriksanjaya.com/public/images/hotspot/02/hs004.jpeg" />
 
 #### Download
-[Download Template](https://github.com/eriiksanjaya/template-login-hotspot-mikrotik-02/archive/refs/heads/main.zip)
+[![]Download Template](https://github.com/eriiksanjaya/template-login-hotspot-mikrotik-02/archive/refs/heads/main.zip)
