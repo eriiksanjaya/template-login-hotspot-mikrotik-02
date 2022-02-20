@@ -28,10 +28,10 @@ let configData = {
   
   lisensi: "free",
 
-  wifi_nama: "MetaNET",
-  wifi_slogan: "Internet Cepat, Unlimited.",
+  wifi_nama: "ImunNET",
+  wifi_slogan: "Internet , Unlimited.",
   
-  lokasi_nama: "Dayeuhkolot, Bandung.",
+  lokasi_nama: "Pakel, Selopuro.",
 
   /*
     Dapatkan Latitude dan Longitude di sini.
@@ -43,8 +43,8 @@ let configData = {
   */
 
   prayTimes: {
-    latitude: -6.9238784,
-    longitude: 107.6166656,
+    latitude: -8.165035,
+    longitude: 112.112.311955,
     gmt: 7, /* wib = 7, wita = 8, wit = 9 */
 
     hijriahNama: 1, /* 0 atau 1 */ 
@@ -60,9 +60,9 @@ let configData = {
   },
 
   kontak: { // akan muncul jika lisensi non-free
-    alamat: "Jalan Raya Laswi",
-    hp: "0895-1700-0409",
-    email: "halo@meta.net",
+    alamat: "jalan lesanpura pakel",
+    hp: "0813-8146-9679",
+    email: "imronhz37@gmail.com",
   },
   
   konten: [
@@ -78,11 +78,11 @@ let configData = {
     data:  [
       {
         waktu: "1 Jam",
-        harga: "Rp1200",
+        harga: "KOSONG",
       },
       {
         waktu: "5 Jam",
-        harga: "Rp3000",
+        harga: "KOSONG",
       },
       {
         waktu: "1 Hari",
